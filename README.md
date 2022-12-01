@@ -1,1 +1,1 @@
-# My_Practice_Solved_Problems
+Practice_Solved_Problems
